@@ -1,0 +1,9 @@
+# Ignore VS Code workspace settings and configurations
+.vscode/
+
+# Ignore node_modules (if you're working with Node.js)
+node_modules/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

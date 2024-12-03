@@ -4,11 +4,11 @@ import pandas as pd
 from datetime import datetime
 
 # Database connection parameters
-host = '65.108.8.217'
-port = 32010
-database = 'prod'
-user = 'brandt'
-password = 'brandt@2024'
+host = 'host'
+port = port
+database = 'database name'
+user = 'user name'
+password = 'password'
 app = Flask(__name__)
 # Function to CA SARL DATA
 def ca_sarl_data(start_date, end_date):
